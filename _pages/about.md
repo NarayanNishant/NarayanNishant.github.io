@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 This is the front page of a website of Nishant Narayan, a masters student in Mechanical Engineering at the University of Washington.
+Time 725
 
 A data-driven personal website
 ======
