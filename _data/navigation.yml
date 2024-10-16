@@ -6,8 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
-
+    url: https://www.google.com
   #- title: "Talks"
     url: /talks/    
 
